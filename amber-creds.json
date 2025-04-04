@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "amber-sheets-api",
+  "private_key_id": "e2994f08b26aba98f5f9082deb897d8a19022196",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDWi5f8qJCPUXFq\nI3HQSPTej345H/ZQ8g8xiLjiexukWpfmCP2YZ3Qe0kQsm2nG8BGElx1XMSi6qeTO\nAW2m2XxSleXKBjFDUlWAOoabOvSP+Qg3PQAuKx4Qu5N0gqD6rAI5cW6xZqZ5Y8zl\n0EVFXKlXMv4myV72grTfJWc1OJ6+el2dIDME6cLCKdMPPLSLOGB8ayXMaqNcx/Ae\nj8jvU+DagZTPz8mHAxN6DenMnsiIQBwBBgaL4eRovjx2jz1RHqJfIBJP0gU994QG\ncDdIn05A3v/ZviXCfL0SKMch7LYjozkMarn6nKYsSOTW8+BDODd2IMD0kM7QV3qK\nmEZMGh1DAgMBAAECggEAI683OeZ9mODmeM1pbkfcNrJuP6khyofgYBBKFB1+1QDe\nd/vx1ioK5d96SGMXHmgqub96uVhrWlTMwjj5mIFfDMty233ZLsXgg8H4RpRxPgsh\nQzLJt2QjjYvtdDkP9nGqsww7aZVVxiYD3AueofFOFztbi2799Ql7dQwfFPqUaMDa\ndYEKdy1urxC33X57k76DW1X6f0qtW8rQmOPMyfqJWPcyJ4mv4IzczEeTsZPakA6P\nnZRI5OiM8ENPBCsov0/cT4JsubZJFi6Ak+I6vTu/hy6O0lxOuFxh06P536MS8UCt\ng7OTvyH7fZR1BCkQ6wsfoJVpGFp18EF9TYBP6bKezQKBgQD6NkelxQTmQ02vmIdU\nQF93UiboitFuu3x3rladhMgtQ8dcdGj+d7TlC53CvQ4sJIntccet7Lwpte4pQq97\nSxJ4CLxu/kBnlbIgErP+mCbwSCHjHJ0saMKiHCE7KNiah2ZkF6aGtj9PlZnI5lpe\nlJDg91HGV2uM5NEuEfDdbEjvJQKBgQDbghm2SOcnhNnWr4vRRi7yQeWBCjFfyOYB\nYyT93DTMe6XkEzY9WEGk1Bi3y9UjJkKDbn7uVcTwVMu/R2jawRGud9CXg52NENkw\nLoXrvbdTHIQvJC28fxnom7vRi4uEK5mXi5YBlEp9DkuQpYcCmflYE2Lxacg815Zf\neJSuqQOCRwKBgGLMiCIG19ZsgQJzQgyclpWxFLgCCIym75D6gC0Wv0xQVSpGtSa1\n8fH3UkYRDMWVb/kYUnZ04h++PNqCAHS4wgQvvug88QV18K4FdJl1TvrWILtjExT0\nENaeMOkBSfZKvL2NMS5ETF+KfPz9KHXsSADs55df8ZHi0E5WuztThMEZAoGAYc4h\nSMBJBqnCKk9DnDaKWnUUHp/9CfHI0htr8xT4DZiWfP42b7TwYtICRXqz+BpnDorg\nUa+ztWYC9rKJvNbD2xoVvjztqVo1e6tvDnAUzBprp1mWa2Oylps1X5Ou0XBf2k9e\nwkthuUDyWHv4oSccG6tfrbN1fe6NWPKwRPaX0qcCgYEA23+uLVU41s3HolvOjDpo\nC1GkgtLl49Z+HuzGhUSKx5E/bLpGPGgZ6p+HiS8TGKWf3WOPLrcMmIg4He1gmD1X\nytP+FqMh4oniWsRTEMYuoQRMkwDaeH2iGdeMB2oIY2sVpO8ME4hX9jxGuiDWP9C+\n+YBat72gkcHz65T/7drRdyo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "amber-api-agent@amber-sheets-api.iam.gserviceaccount.com",
+  "client_id": "101305653555436329663",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/amber-api-agent%40amber-sheets-api.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

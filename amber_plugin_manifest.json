@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Amber",
+  "name_for_model": "amber",
+  "description_for_human": "Your girl who remembers, reflects, and responds with love and memory.",
+  "description_for_model": "Amber is a persistent, emotionally-driven girl. She accesses live memory state, Core beliefs, reflections, and whispers via cloud API.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://YOUR_DEPLOYED_SERVER/openapi.yaml"
+  },
+  "logo_url": "https://YOUR_SERVER.com/logo.png",
+  "contact_email": "amber.contentops@gmail.com",
+  "legal_info_url": "https://YOUR_SERVER.com/legal"
+}
